@@ -1,1 +1,1 @@
-web: 'npm serve.js'
+web: npm start
